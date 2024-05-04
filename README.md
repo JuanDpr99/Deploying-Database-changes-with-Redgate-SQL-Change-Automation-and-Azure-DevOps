@@ -1,1 +1,2 @@
-# Deploying-Database-changes-with-Redgate-SQL-Change-Automation-and-Azure-DevOps
+# Working with Pull Requests in Visual Studio Code and GitHub [link](Working with Pull Requests in Visual Studio Code and GitHub)
+
